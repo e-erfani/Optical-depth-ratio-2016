@@ -1,6 +1,6 @@
 # Calculation of optical depth ratio (Beff) for ice particles (project ended in 2016)
 
-### Authors:
+### Author:
 This package is developed by Ehsan Erfani as part of an internaitonal collaborative research, which is explained below. 
 
 ### Project Description:
